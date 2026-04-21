@@ -1,4 +1,4 @@
-# MagicCodeพ
+# MagicCoder
 Local vibecoder tool — basically "Claude Code" but running on your own machine (and your own mistakes).
 
 Yeah… it’s called *MagicCode* because I saw a Magic Mouse on my desk.  
